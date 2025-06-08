@@ -10,10 +10,11 @@
 - Юридическую ответственность  
 - Компенсацию от **5 000 €** за каждое нарушение
 
-Use of materials for commercial purposes without the consent of the author entails:
+Using materials for commercial purposes without the author's consent entails:
+
 - Automatic termination of the license
 - Legal liability
-- Compensation from **5,000 €** for each violation
+- Compensation of €5,000 per violation
 
 # ГУМАНОИД | HUMANOID
 Проект робота-гуманоида. Модели, код, документация, фото, изображения.
