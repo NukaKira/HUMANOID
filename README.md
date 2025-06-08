@@ -3,7 +3,7 @@
 [Русская версия](LICENSE.ru.md) | [English Version](LICENSE.en.md)  
 © Семенышев Кирилл Денисович (NukaKira / Vikira) | © Semenyshev Kirill Denisovych (NukaKira / Vikira)
 
-#CAUTION  
+# CAUTION  
 
 Использование материалов в коммерческих целях без согласия автора влечет:  
 - Автоматическое прекращение лицензии  
