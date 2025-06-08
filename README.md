@@ -1,4 +1,4 @@
-# 📜 Лицензия | License
+# 📜 ЛИЦЕНЗИЯ | LICENSE
 
 [Русская версия](LICENSE.ru.md) | [English Version](LICENSE.en.md)  
 © Семенышев Кирилл Денисович (NukaKira / Vikira) | © Semenyshev Kirill Denisovych (NukaKira / Vikira)
