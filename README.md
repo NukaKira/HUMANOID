@@ -1,7 +1,7 @@
 # 📜 ЛИЦЕНЗИЯ | LICENSE
 
 [Русская версия](LICENSE.ru.md) | [English Version](LICENSE.en.md)  
-© Семенышев Кирилл Денисович (NukaKira / Vikira) | © Semenyshev Kirill Denisovych (NukaKira / Vikira)
+© Семенышев Кирилл Денисович (NukaKira / Vikira) | © Semenyshev Kirill Denisovich (NukaKira / Vikira)
 
 # ВНИМАНИЕ | CAUTION  
 
@@ -17,4 +17,5 @@ Use of materials for commercial purposes without the consent of the author entai
 
 # ГУМАНОИД | HUMANOID
 Проект робота-гуманоида. Модели, код, документация, фото, изображения.
+
 Humanoid robot project. Models, code, documentation, photos, images.
