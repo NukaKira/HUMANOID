@@ -1,9 +1,9 @@
 ## 📜 License  
 All materials (code, 3D models, documentation) are licensed under **strict non-commercial terms**.  
 - **Permitted:** Non-commercial use, modification, distribution with attribution  
-- **Required:** Clear attribution (see [Attribution](LICENSE#31-attribution) in license)  
+- **Required:** Clear attribution (see [Attribution](https://github.com/NukaKira/HUMANOID/blob/main/LICENSE.txt) in license)  
 - **Prohibited:** Any commercial use without separate written agreement  
-- **Full license:** [LICENSE](LICENSE)  
+- **Full license:** [LICENSE]([LICENSE](https://github.com/NukaKira/HUMANOID/blob/main/LICENSE.txt))  
 © 2025 Kirill Semenyshev (NukaKira / Vikira)
 
 // Author: Kirill Semenyshev (NukaKira / Vikira)
@@ -14,9 +14,9 @@ All materials (code, 3D models, documentation) are licensed under **strict non-c
 ## 📜 Лицензия
 Все материалы данного репозитория (код, 3D-модели, документация) защищены **строгой некоммерческой лицензией**.
 - **Можно:** Свободно использовать, копировать, модифицировать и распространять **ТОЛЬКО в некоммерческих целях**.
-- **Обязательно:** Четко указывать авторство (см. раздел [Атрибуция](LICENSE#31-атрибуция-указание-авторства) в лицензии).
+- **Обязательно:** Четко указывать авторство (см. раздел [Атрибуция](https://github.com/NukaKira/HUMANOID/blob/main/LICENSE.txt) в лицензии).
 - **Нельзя:** Любое коммерческое использование (прямое или косвенное) без отдельного письменного соглашения с автором.
-- **Полный текст лицензии:** [LICENSE](LICENSE)
+- **Полный текст лицензии:** [LICENSE](https://github.com/NukaKira/HUMANOID/blob/main/LICENSE.txt)
 © 2025 Семенышев Кирилл Денисович (NukaKira / Vikira)
 
 // Автор: Семенышев Кирилл Денисович (NukaKira / Vikira)
