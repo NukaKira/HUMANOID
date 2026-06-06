@@ -1,7 +1,7 @@
 LICENSE AGREEMENT HUMANOID PROJECT (Non-Commercial, Attribution Required)
 Version 1.0
 
-Licensor: Semenyshev Kirill Denisovich (also known as NukaKira, Vikira)
+Licensor: Semenyshev Kirill Denisovich (also known as NukaKira, Vikira, Takumi Karakuri)
 Contact: nuka.kira3257@gmail.com, https://github.com/NukaKira
 Repository: https://github.com/NukaKira/HUMANOID
 
@@ -82,5 +82,5 @@ Reimbursement of legal defense costs and litigation expenses.
 9.4. License Modifications: The Licensor may publish new versions (v1.1, v2.0). Materials are used under the license version effective at the time of acquisition.
 9.5. Entire Agreement: This text constitutes the complete agreement between parties.
 
-© Semenyshev Kirill Denisovich (NukaKira / Vikira)
+© Semenyshev Kirill Denisovich (NukaKira / Vikira / Takumi Karakuri)
 Effective Date: June 9, 2025
