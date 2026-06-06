@@ -1,7 +1,7 @@
 # 📜 ЛИЦЕНЗИЯ | LICENSE
 
 [Русская версия](LICENSE.ru.md) | [English Version](LICENSE.en.md)  
-© Семенышев Кирилл Денисович (NukaKira / Vikira) | © Semenyshev Kirill Denisovich (NukaKira / Vikira)
+© Семенышев Кирилл Денисович (NukaKira / Vikira / Takumi Karakuri) | © Semenyshev Kirill Denisovich (NukaKira / Vikira / Takumi Karakuri)
 
 # ВНИМАНИЕ | CAUTION  
 
