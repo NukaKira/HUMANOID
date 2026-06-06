@@ -19,18 +19,14 @@ Images, screenshots, videos
 README files and other documentation
 (hereinafter referred to as the "Licensed Materials").
 
-2. GRANTED RIGHTS
-2.1. The Licensor grants the Licensee a non-exclusive, royalty-free, non-transferable, worldwide right to:
-
-Reproduction: Copy materials.
-
-Distribution: Public distribution of original/derivative materials.
-
-Creation of Derivative Works: Modification, adaptation.
-
-Public Display and Performance: Demonstration of materials or derivative works.
+### 2. GRANTED RIGHTS
+2.1. The Licensor grants the Licensee a non-exclusive, royalty-free, worldwide, sub-licensable (solely to the extent necessary to distribute Derivative Works under the terms of Section 2.3) right to:
+* Reproduction: Copy materials.
+* Distribution: Public distribution of original/derivative materials.
+* Creation of Derivative Works: Modification, adaptation.
+* Public Display and Performance: Demonstration of materials or derivative works.
 2.2. Rights are granted exclusively for non-commercial use.
-2.3. Derivative Works must be distributed under the terms of this License.
+2.3. Derivative Works must be distributed under the terms of this identical License. Anyone who receives the Licensed Materials or Derivative Works from the Licensee automatically receives a license from the original Licensor to use, reproduce, and distribute those materials under these exact terms.
 
 3. MANDATORY CONDITIONS
 3.1. Attribution (required for any distribution):
