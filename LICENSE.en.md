@@ -1,7 +1,7 @@
 LICENSE AGREEMENT HUMANOID PROJECT (Non-Commercial, Attribution Required)
 Version 1.0
 
-Licensor: Semyonyshev Kirill Denisovich (also known as NukaKira, Vikira)
+Licensor: Semenyshev Kirill Denisovich (also known as NukaKira, Vikira)
 Contact: nuka.kira3257@gmail.com, https://github.com/NukaKira
 Repository: https://github.com/NukaKira/HUMANOID
 
