@@ -72,7 +72,7 @@ Immediately cease using materials.
 Destroy all copies of materials and derivative works.
 
 Compensate damages (including lost profits).
-8.2. Minimum compensation: For each infringement, the infringer shall pay not less than 5,000 EUR (or equivalent in RUB/USD at the Central Bank of Russia exchange rate on the infringement date).
+8.2. Minimum compensation: For each infringement, the infringer shall pay not less than 5,000 EUR (or equivalent in RUB/USD at the Central Bank of the Russian Federation exchange rate on the infringement date).
 8.3. Additionally, the Licensor may demand:
 
 Compensation of up to 50,000 EUR if substantial damage is proven.
